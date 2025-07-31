@@ -1,1 +1,1 @@
-Task Class X PPL 1
+Task Class X
